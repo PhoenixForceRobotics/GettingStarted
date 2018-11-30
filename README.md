@@ -18,9 +18,11 @@ Steps:
 
 
 **Imaging a roboRIO** 
+
 Follow the steps here if my instructions aren't sufficient https://wpilib.screenstepslive.com/s/currentCS/m/getting_started/l/144984-imaging-your-roborio
 
-1. Open the roboRIO Imaging tool (this should've installed with the FRC Driver Station"
+1. Open the roboRIO Imaging tool (this should've installed with the FRC Driver Station)
+1. Make sure the robot is powered on and the battery has some semblance of charge, this shouldn't take long, but you don't want it dying 
 1. Connect your computer to the roboRIO with a USB type A to USB type B adapter 
 1. Select the roboRio that is connected in the top left corner (there should only be one)
 1. Choose the image you woud like to flash the roboRIO to, most likely the latest year
