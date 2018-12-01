@@ -31,6 +31,16 @@ Follow the steps here if my instructions aren't sufficient https://wpilib.screen
 
 
 **Configuring the Router for FRC**
+
 Follow these instructions if my instructions aren't sufficient https://wpilib.screenstepslive.com/s/4485/m/13503/l/144986-programming-your-radio-for-home-use
 
-1. 
+1. Connect the router to power, but not to the robot
+1. Download and open the FRC Radio Configureation Utility from this link from about a quearter way down this link https://wpilib.screenstepslive.com/s/4485/m/13503/l/144986-programming-your-radio-for-home-use (You will need admin access to open this, so make sure you have a teacher if you are using a school computer
+1. Connect the robot to your computer using an ethernet cable
+1. Select OpenMesh in the radio drop down and click load firmware to download the most recent firmware
+1. Put our team number (2097) in the team number box and disconnect the ethernet cable from the router
+1. Click configure
+1. Reconnect the router to the computer via ethernet
+1. Power cycle the router (take the power cord out for a few seconds then plug it back in
+1. It should be completed after this but make sure to follow any prompts from the utility
+
